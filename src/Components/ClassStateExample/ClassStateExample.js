@@ -11,12 +11,9 @@ class ClassStateExample extends Component {
   }
 
   
-  
   ReactEvent = () => {
     alert("You clicked me!!");
   };
-
-
 
 
   render() {
@@ -31,5 +28,3 @@ class ClassStateExample extends Component {
 }
 
 export default ClassStateExample;
-
-
